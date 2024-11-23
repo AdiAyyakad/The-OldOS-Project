@@ -1,4 +1,4 @@
-app_identifier("com.zurac.OldOS") # The bundle identifier of your app
+app_identifier("com.adiayyakad.OldOSApp") # The bundle identifier of your app
 apple_id("adeutch@mac.com") # Your Apple email address
 
 itc_team_id("1676744") # App Store Connect Team ID
